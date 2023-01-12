@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[]) {
     if (argc != 3) {
-        printf("Usage: %s [string to search for] [file name]\n", argv[0]);
+        printf("Usage: %s [Operating System] [SSE]\n", argv[0]);
         return 1;
     }
 
